@@ -1,3 +1,17 @@
-<article>
-    {{ content }}
-</article>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+        <title>{{ title }}</title>
+    </head>
+    <body>
+        <header>{{ title }}</header>       
+        <aside>
+        <p>Hi, my name is Omar Ajerray and here is a description of things.</p>
+        </aside>
+        <main>
+            {{ content }}
+        </main>
+        <footer>Created by Omar Ajerray, Copyright 2020. Generated of {{ repo }} {{ commit }} on {{ generate-date }}</footer>
+        <img class="background" src="./../media/meteor-file-strike.svg">
+    </body>
+</html>

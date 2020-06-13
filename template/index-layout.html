@@ -1,23 +1,21 @@
-<!-- TODO: Add publishing date to links in index. -->
-<!-- TODO: Have index be a simple endlessly down scrolling index of links. -->
-<!-- TODO: Mention the font in the about with a link -->
 <html>
     <head>
         <link rel="stylesheet" href="styles.css">
+        <title>iomeanslife</title>
     </head>
     <body>
         <header>iomeanslife</header>       
         <aside>
-        <p>Hi, my name is Omar Ajerray and here i a description of things.</p>
+        <p>Hi, my name is Omar Ajerray and here is a description of things.</p>
         </aside>
         <main>
             <nav>
                 <ul>
-                {{ index-list- }}
+                {{ index-list }}
                 </ul>
             </nav>
         </main>
-        <footer>Created by Omar Ajerray, Copyright 2020</footer>
+        <footer>Created by Omar Ajerray, Copyright 2020. Generated of {{ repo }} {{ commit }} on {{ generate-date }}</footer>
         <img class="background" src="./media/meteor-file-strike.svg">
     </body>
 </html>
