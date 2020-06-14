@@ -11,6 +11,14 @@ html {
     background-color: black;
 }
 
+a, a:link {
+    color:#Ff6ecb;
+}
+
+a:active, a:hover {
+    color:#D17aff;
+}
+
 main {
     width: 80%;
 }
