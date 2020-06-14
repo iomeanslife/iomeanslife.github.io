@@ -1,0 +1,41 @@
+@font-face {
+    font-family: lemon-milk;
+    src: url(./media/lemon-milk-font.otf);
+  }
+
+html {
+    font-family: lemon-milk;
+    /* color: #D17aff; */
+    color:#9663e8;
+    /* color:#Ff6ecb; */
+    background-color: black;
+}
+
+main {
+    width: 80%;
+}
+
+aside {
+    top: 50px;
+    position: sticky;
+    float: right;
+    width: 300px;
+}
+
+header {
+    top: 0px;
+    position: sticky;
+}
+
+footer {
+}
+
+.background {
+    z-index: -1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    height: 300px;
+    align-self: flex-end;
+    /* right: 0px; */
+}

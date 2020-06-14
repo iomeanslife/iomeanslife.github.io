@@ -1,2 +1,3 @@
 # iomeanslife.github.io
-Personal github page.
+
+My personal github page shown on (iomeanslife.github.io). Using a generator written in .Net Core.
