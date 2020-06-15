@@ -11,6 +11,11 @@ html {
     background-color: black;
 }
 
+img.content {
+    background-color: white;
+    border-style: solid
+}
+
 a, a:link {
     color:#Ff6ecb;
 }
@@ -45,5 +50,4 @@ footer {
     right: 0px;
     height: 300px;
     align-self: flex-end;
-    /* right: 0px; */
 }
