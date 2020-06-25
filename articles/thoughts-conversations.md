@@ -4,9 +4,10 @@ In this category I will write about things that peaked my interest or had conver
 
 ### GBAssembler
 
-This is a project of a dear friend of mine. In his video series ho goes through the steps required to build an assembler for the classic Gameboy. I suggest giving it a watch.
+This is a project of a dear friend of mine. In his video series he goes through the steps required to build an assembler for the classic Gameboy. I suggest giving it a watch.
 
 _Creating a GameBoy Assembler with Rust - Part 1_
+
 [https://www.youtube.com/watch?v=X3X5eurVKnQ](https://www.youtube.com/watch?v=X3X5eurVKnQ)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3X5eurVKnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -17,4 +18,4 @@ A colleaue of mine is getting training in AWS Solutions and mentions a few thing
 
 ### Romania
 
-Interesting people. The older generation is stuck in conservative religious ways, but the younger one is more worldly and modern, partly hustling in cities like London and working in service or IT. It'd be cool if they'd get a big IT and finance industry going, they certainly do have the skilled labourers for that.
+Interesting people. The older generation is stuck in conservative religious ways, but the younger one is more worldly and modern, partly hustling in cities like London and working in service or IT. Already doing work in the vehicle industry, it'd be cool if they would also get a big IT and finance industry going. They certainly do have the skilled and motivatedlabourers for that, if only the pay would be more competitive.
