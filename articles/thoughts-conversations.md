@@ -10,6 +10,7 @@ _Creating a GameBoy Assembler with Rust - Part 1_
 
 [https://www.youtube.com/watch?v=X3X5eurVKnQ](https://www.youtube.com/watch?v=X3X5eurVKnQ)
 
+<!-- EMBEDDED HTML CONTENT TO BE IGNORED -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3X5eurVKnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### AWS
