@@ -3,7 +3,10 @@
 I spent some time working for a coding challenge and since I spent the time I might as well share it here.
 You can find the source code for running in unity at https://github.com/iomeanslife/bird-chase-demo
 
-{{ bird-chase-webgl}}
+<!-- EMBEDDED HTML CONTENT TO BE IGNORED -->
+<div style="overflow: hidden; padding-top: 56.25%; position: relative;">
+<iframe style=" border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%;" src="./../extra-content/bird-chase/index.html"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Some Thoughts
 
